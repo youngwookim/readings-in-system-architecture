@@ -12,3 +12,5 @@
   #distributed_transction #msa
 - [Scaling lessons learned at Dropbox, part 1](https://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1)
   #metrics #system_architecture
+- [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopifyengineering.myshopify.com/blogs/engineering/merlin-shopify-machine-learning-platform)
+  #ml_platform #feature_store #ray
