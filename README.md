@@ -10,3 +10,5 @@
   #prometheus #observability #o11y 
 - [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#)
   #distributed_transction #msa
+- [Scaling lessons learned at Dropbox, part 1](https://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1)
+  #metrics #system_architecture
