@@ -14,3 +14,5 @@
   #metrics #system_architecture
 - [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopifyengineering.myshopify.com/blogs/engineering/merlin-shopify-machine-learning-platform)
   #ml_platform #feature_store #ray
+- [Building Secure & Reliable Systems](https://sre.google/books/), [PDF](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf)
+  #system_design #security
