@@ -8,3 +8,5 @@
   #search
 - [A Deep Dive Into the Four Types of Prometheus Metrics](https://www.timescale.com/blog/four-types-prometheus-metrics-to-collect/)
   #prometheus #observability #o11y 
+- [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#)
+  #distributed_transction #msa
