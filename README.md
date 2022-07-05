@@ -16,3 +16,5 @@
   #ml_platform #feature_store #ray
 - [Building Secure & Reliable Systems](https://sre.google/books/), [PDF](https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf)
   #system_design #security
+- [6 Symptoms of a Distributed Monolith](https://torvo.com.au/articles/6-symptoms-of-a-distributed-monolith)
+  #microservices
