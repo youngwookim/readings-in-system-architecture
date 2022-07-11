@@ -1,5 +1,6 @@
 # readings-in-system-architecture
 
+- [머신러닝 어플리케이션을 위한 데이터 저장소 기술](https://hyperconnect.github.io/2022/07/11/data-stores-for-ml-apps.html)
 - [Fast and Reliable Schema-Agnostic Log Analytics Platform](https://eng.uber.com/logging/) 
   #logging #observability #o11y
 - [OpenTelemetry Collector deployment patterns](https://kccncna2021.sched.com/event/lV0z), [Github](https://github.com/jpkrohling/opentelemetry-collector-deployment-patterns), [Youtube](https://youtube.com/watch?v=WhRrwSHDBFs)
@@ -18,3 +19,4 @@
   #system_design #security
 - [6 Symptoms of a Distributed Monolith](https://torvo.com.au/articles/6-symptoms-of-a-distributed-monolith)
   #microservices
+
