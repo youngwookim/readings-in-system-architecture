@@ -1,5 +1,7 @@
 # readings-in-system-architecture
 
+- [Owl: Distributing content at Meta scale](https://engineering.fb.com/2022/07/14/data-infrastructure/owl-distributing-content-at-meta-scale/)
+  #data_infrastructure
 - [머신러닝 어플리케이션을 위한 데이터 저장소 기술](https://hyperconnect.github.io/2022/07/11/data-stores-for-ml-apps.html)
 - [Fast and Reliable Schema-Agnostic Log Analytics Platform](https://eng.uber.com/logging/) 
   #logging #observability #o11y
