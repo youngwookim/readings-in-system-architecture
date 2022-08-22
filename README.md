@@ -1,5 +1,6 @@
 # readings-in-system-architecture
 
+- [Use One Big Server](https://specbranch.com/posts/one-big-server/)
 - [Here’s how one of Atlassian’s critical services consistently gets above 99.9999% of availability](https://www.atlassian.com/engineering/atlassian-critical-services-above-six-nines-of-availability)
 - [Kubernetes Patterns](https://k8spatterns.io/)
   #kubernetes
