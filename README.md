@@ -1,5 +1,6 @@
 # readings-in-system-architecture
 
+- [Here’s how one of Atlassian’s critical services consistently gets above 99.9999% of availability](https://www.atlassian.com/engineering/atlassian-critical-services-above-six-nines-of-availability)
 - [Kubernetes Patterns](https://k8spatterns.io/)
   #kubernetes
 - [Owl: Distributing content at Meta scale](https://engineering.fb.com/2022/07/14/data-infrastructure/owl-distributing-content-at-meta-scale/)
