@@ -1,5 +1,7 @@
 # readings-in-system-architecture
 
+- [Rows, columns, and the search for a database that can do everything](https://www.theregister.com/2022/06/22/snowflake_unistore_analysis/)
+  #htap
 - [You Don’t Need Microservices](https://itnext.io/you-dont-need-microservices-2ad8508b9e27)
 - [Use One Big Server](https://specbranch.com/posts/one-big-server/)
 - [Here’s how one of Atlassian’s critical services consistently gets above 99.9999% of availability](https://www.atlassian.com/engineering/atlassian-critical-services-above-six-nines-of-availability)
